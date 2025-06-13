@@ -5,3 +5,4 @@ console.log("Teste 4");
 console.log("Teste 5");
 console.log("Teste 6");
 console.log("Teste 7");
+console.log("Teste 8");
