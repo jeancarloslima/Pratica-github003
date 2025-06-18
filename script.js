@@ -10,4 +10,3 @@ console.log("Teste 9");
 console.log("Teste 10");
 console.log("Teste 11");
 console.log("Teste 12");
-console.log("Teste 13");
