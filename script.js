@@ -21,3 +21,4 @@ console.log("Teste 20");
 console.log("Teste 21");
 console.log("Teste 22");
 console.log("Teste 23");
+console.log("Teste 24");
